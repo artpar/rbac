@@ -1,4 +1,4 @@
-package: github.com/nzqpeace/rbac
+package: github.com/artpar/rbac
 import:
 - package: github.com/Sirupsen/logrus
   version: ^0.10.0

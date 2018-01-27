@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	set "github.com/deckarep/golang-set"
-	"github.com/nzqpeace/rbac/db"
-	"github.com/nzqpeace/rbac/model"
+	"github.com/artpar/rbac/db"
+	"github.com/artpar/rbac/model"
 )
 
 const redisKeyFormatPermissions = "%s_%s_permissions" // {system}_{uid}_permissions

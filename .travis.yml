@@ -8,7 +8,7 @@ services:
     - redis-server
 
 
-go_import_path: github.com/nzqpeace/rbac
+go_import_path: github.com/artpar/rbac
 
 before_install:
     - sudo add-apt-repository ppa:masterminds/glide -y

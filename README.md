@@ -1,4 +1,4 @@
-# RBAC  [![Build Status](https://travis-ci.org/nzqpeace/rbac.svg?branch=master)](https://travis-ci.org/nzqpeace/rbac)
+# RBAC  [![Build Status](https://travis-ci.org/artpar/rbac.svg?branch=master)](https://travis-ci.org/artpar/rbac)
 
 Role-Based Access Control (RBAC) for Golang
 
@@ -9,9 +9,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/nzqpeace/rbac"
-	"github.com/nzqpeace/rbac/cache"
-	"github.com/nzqpeace/rbac/db"
+	"github.com/artpar/rbac"
+	"github.com/artpar/rbac/cache"
+	"github.com/artpar/rbac/db"
 )
 
 var (

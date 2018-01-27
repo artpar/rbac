@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/nzqpeace/rbac"
-	"github.com/nzqpeace/rbac/model"
+	"github.com/artpar/rbac"
+	"github.com/artpar/rbac/model"
 
 	"github.com/kataras/iris"
 )

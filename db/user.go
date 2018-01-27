@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/nzqpeace/rbac/model"
+	"github.com/artpar/rbac/model"
 	"gopkg.in/mgo.v2/bson"
 )
 

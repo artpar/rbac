@@ -1,9 +1,9 @@
 package rbac
 
 import (
-	"github.com/nzqpeace/rbac/cache"
-	"github.com/nzqpeace/rbac/db"
-	"github.com/nzqpeace/rbac/model"
+	"github.com/artpar/rbac/cache"
+	"github.com/artpar/rbac/db"
+	"github.com/artpar/rbac/model"
 )
 
 // RBAC entry of rbac system
